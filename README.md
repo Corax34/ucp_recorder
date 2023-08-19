@@ -1,2 +1,13 @@
-# ucp_recorder
-Module for the Unofficial Crusader Patch Version 3. Allows recording and playback of Stronghold Crusader matches.
+# UCP Recorder 
+
+**WORK IN PROGRESS**
+
+## Usage
+Use as module for UCP3. Skirmish lobby provides UI for record-mode and playback-mode.
+
+## Features
+
+- [x] SHC singleplayer skirmish recording 
+- [ ] SHC-E recordings
+- [ ] Multiplayer recordings
+- [ ] Loading replay files via UI 
