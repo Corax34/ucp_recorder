@@ -1,4 +1,7 @@
 name: recorder
+display-name: UCP-Recorder
 version: 0.0.1
-author: corax
-game: [SHC==1.41]
+type: module
+author: Corax
+meta:
+  version: 0.0.1
