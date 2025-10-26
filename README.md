@@ -4,7 +4,7 @@
 
 ## Getting Started
 Used as a module for UCP3. Skirmish lobbies provides UI for record-mode and playback-mode.  
-**Singleplayer-Only** (as of now)
+At this time, only works in **SHC - Singleplayer-Only**
 
 #### Step 1
 Install UCP3 Developer mode with the ucp-recorder module turned on.
@@ -35,4 +35,4 @@ Any potential errors or desyncs will be printed in the terminal.
 - [x] SHC singleplayer skirmish recording 
 - [ ] SHC-E recordings
 - [ ] Multiplayer recordings
-- [ ] Loading recording files via UI 
+- [ ] Loading recording files via UI
