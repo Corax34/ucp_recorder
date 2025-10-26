@@ -16,7 +16,7 @@ options:
   display: 
   contents:
     type: boolean
-    value: false
+    value: true
 - url: fixedSeed
   header: "Fixed Seed"
   text: "A seed can be entered in case fixed seeds are used"
