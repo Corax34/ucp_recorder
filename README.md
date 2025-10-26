@@ -27,7 +27,7 @@ The recording will be automatically saved inside the game folder.
 #### Step 6
 To view the recording, make sure the Skirmish lobby map and NPCs are configured the same as before.  
 Lastly, mark the playback-checkbox and start the match.
-![playback-checkbox](/img/step6.png)
+![playback-checkbox](/img/step6.png)  
 Any potential errors or desyncs will be printed in the terminal.
 
 ## Features
