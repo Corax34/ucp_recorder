@@ -3,7 +3,7 @@
 **WORK IN PROGRESS**
 
 ## Getting Started
-Used as a module for UCP3. Skirmish lobbies provides UI for record-mode and playback-mode.  
+Used as a module for UCP3. Skirmish lobbies provide UI for record-mode and playback-mode.  
 At this time, only works in **SHC - Singleplayer-Only**
 
 #### Step 1
