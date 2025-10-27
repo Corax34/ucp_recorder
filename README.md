@@ -30,6 +30,9 @@ Lastly, mark the playback-checkbox and start the match.
 ![playback-checkbox](/img/step6.png)  
 Any potential errors or desyncs will be printed in the terminal.
 
+#### Warning
+Currently you need to delete existing recording files in your Game folder whenever you want to make a new recording.
+
 ## Features
 
 - [x] SHC singleplayer skirmish recording 
